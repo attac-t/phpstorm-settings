@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="privateKey" type="AUTO_DETECTED" />
       <mapping pattern="ResetPasswordRequest.ts" type="AUTO_DETECTED" />
+      <mapping pattern="ross-barbershop.json" type="AUTO_DETECTED" />
       <mapping pattern="_headers" type="AUTO_DETECTED" />
       <mapping pattern="*.php.stub" type="PHP" />
       <mapping pattern=".php_cs" type="PHP" />
